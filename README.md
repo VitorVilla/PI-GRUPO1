@@ -11,6 +11,14 @@
 
 <br>
 
+## Equipe EKKOGAIA:
+Vitor Villa | [GitHub](https://github.com/VitorVilla) <br>
+Luiz Betelli | [GitHub](https://github.com/LuizFernandoAvelinoBetelli)<br>
+Eric | [GitHub](https://github.com/EricIndio)<br>
+Daniel França | [GitHub](https://github.com/danielfransa)<br>
+Harthur Benetti | [GitHub](https://github.com/HarthurComH)<br>
+Silmara | [GitHub](https://github.com/Silmara00)<br>
+
 ## Tecnologias:
 
 Este projeto foi feito utilizando as seguintes tecnologias:
@@ -23,10 +31,9 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 
 ## Professores
-- Orlando Saraiva - Engenharia de Software I <br/>
-- Daniel Robledo -  Design Digital <br/>
-- Sandro Valerius - Desenvolvimento Web <br/>
-<br>
+- Orlando Saraiva - Engenharia de Software I <br>
+- Daniel Robledo -  Design Digital <br>
+- Sandro Valerius - Desenvolvimento Web <br>
 
 ## Intituição
 - Faculdade de Tecnologia do Centro Paula Souza - Fatec Araras<br/>
